@@ -1,0 +1,11 @@
+.liked-images,
+.disliked-images {
+    margin-bottom: 20px;
+}
+
+.liked-image,
+.disliked-image {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
